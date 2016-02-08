@@ -5,3 +5,29 @@
        -moz-box-sizing: border-box;
             box-sizing: border-box;
 }
+.meme {
+  background-image: url("../img/dogComputer.jpg");
+  width: 751px;
+  height: 500px;
+}
+div {
+  border: 2px solid black;
+}
+
+p {
+  font-family: Impact, 'sans serif';
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 0.2em black;
+  font-size: 35px;
+
+}
+
+p.blocktext {
+    text-align: center;
+    margin-top: 25px;
+}
+
+p.blocktext2 {
+  text-align: center;
+  margin-top: 325px;
+}
